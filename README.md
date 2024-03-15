@@ -8,6 +8,7 @@ Repositorio que reune conocimiento vinculado a algunas herramientas, ambientes, 
  - [Editor de Diagramas](https://excalidraw.com/)
  - [Editor de diagramas BPMN](https://demo.bpmn.io/)
  - [Editor de Diagramas de Entidad Relación](https://dbdiagram.io/home)
+ - [Dashboard para desarrolladores, tiempo de programación](https://wakatime.com/)
 
 
 ## Authors
